@@ -1,3 +1,7 @@
 # hello-world
-My first repository.
-Here you can do whatever you want! :) 
+ 
+Hello fellow beleivers!
+
+We are believers in the world! And in IT ofcourse!
+Lets practice our believe together!
+
